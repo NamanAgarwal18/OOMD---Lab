@@ -1,0 +1,14 @@
+Lab -1 SRS (College information System)
+
+The system would be used by the Principal, Teachers, HOD's, Strudents, Non Teaching Staff and accounts section.
+
+Teachers can add new assignments or tests.
+Teachers can take attendance.
+Teachers can teach in the class and conduct labs.
+The students can mark present, Complete their pending tasks and study.
+The HOD can conduct the semester.
+The HOD can take reports from the teacher as well as report to the Principal.
+The non teaching staff can perform their duties.
+The accounts section can create fee slips, process Fee payments and carry out payments to the staff.
+The accounts section can also send reminders to the students.
+The principal can make policies, check for reports and appoint the staff.
