@@ -1,0 +1,7 @@
+The system would be used by the manager, owner and the supplier of the stock.
+
+1) The stock management system allows the manager to record information of the items available in the store and generate reports based on the total amount of sales. 
+2) The stock management system allows the owner to sell/order the stalk.
+3) It also allows the owner to report quality issues, track orders, make payments etc.
+4) It also allows the supplier to supply the stocks and see the orders place to them as well as the track the orders out for delivery.
+5) The system retains the records of the cost, expiry date, vendor details, discount and quantity.
