@@ -1,10 +1,11 @@
 Lab -2 SRS (Hostel management system)
 
-The system should be used by the hostel secretary, hostel warden, guards, staff and students.
-
-The Hostel Secretary should manage many hostels and see to appointing Wardens.
-The Hostel Warden should allocate rooms, respond to complaints, Allocate Resources and collect fees.
-The warden should review the attendance as well.
-The guards are supposed to patrol in the night, take attendance everyday and guard the gates.
-The staff is supposed to clean the hostel and cook the feed.
-The student is supposed to occupy the room, eat mess food, apply for leaves and pay the fees
+The system should be used by the 1) Hostel staff containg - Guard, Cloaning staff and mess staff
+                                 2) Warden
+                                 3) Students
+                                 4) Management
+                                   
+i) The warden should allot rooms, check the attendance records, maintain the mess, and review the complains and feedbacks.
+ii) The management should act on complains, collect fee and send fee reminders to the students.
+iii) The Students should pay the fees and maintain the room and make complains as and when needed.
+iv) Hostel staff should do their own respective duties.
