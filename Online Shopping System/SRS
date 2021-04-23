@@ -1,1 +1,9 @@
+Online Shopping System
 
+The system has 2 users. One being the customer and the other being the Admin.
+There is basic details saved for both the users.
+The customer can buy items, or view the cart or change the delivery address.
+And the Admin can modify customer or ban customers, handle their issues or complains, manage a category of products or manage individual products as well.
+Every customer has a shopping cart full of products where the can add, remove or clear it.
+All the products are categorised.
+he customer has the list of past or active orders where they can modify or cancel the order and choose a mode of payment.
