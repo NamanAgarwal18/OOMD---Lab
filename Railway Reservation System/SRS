@@ -1,0 +1,6 @@
+Railway Reservation System
+
+Here only Admin and Passanger are the users of the System.
+The admin can change things and manage the system.
+The passanger can book or cancel a train ticket or track a train.
+The ticket has basic details and an option to add meals with it.
