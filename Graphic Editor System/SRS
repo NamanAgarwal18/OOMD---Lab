@@ -1,0 +1,9 @@
+GRAPHICS EDITOR SYSTEM
+
+The graphics editor is an Application that enables a programmer to develop their own graphical model editor for a specific type of
+project.
+It contains the toolbox which contains tools like: Line, Circle, Rectangle, Arc, Text, Draw, Eraser.
+Standard toolbar with options for New, Open, Save, Toolbox and Text Toolbox.
+One integrated view to users for toolbar, color box, menu, and graphic screen.
+Easy handling of tools for users.
+Provision of zoom in and zoom out is available as well.
