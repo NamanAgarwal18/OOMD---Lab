@@ -1,0 +1,8 @@
+Coffee Vending Machine
+
+The customer can place the order, pay and feedback.
+The admin on the other hand can collect the money, refill and update the settings.
+The vending machine can dispence product, collect money and return the change.
+The selection pannel shows all the different types of products and dispences the ones selected.
+Every product has a description and list of proper proportions of milk, coffee, sugar, water and tea.
+
